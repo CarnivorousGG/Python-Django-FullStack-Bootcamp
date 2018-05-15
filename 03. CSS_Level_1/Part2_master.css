@@ -1,0 +1,18 @@
+body{
+  background: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/mr-robot-background-1.jpg);
+  background-repeat: no-repeat;
+
+}
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 2px;
+  border-style: ridge;
+}
+p{
+  color: yellow;
+}
+span{
+  background: red;
+  color: black;
+}
